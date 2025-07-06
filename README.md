@@ -1,4 +1,12 @@
 ## Hi there 👋
+- 🔭 I’m currently working as a Freelancer, design and building modern static website using HTML, CSS, JavaScript and Tailwind 
+- 🌱 I’m currently learning Tailwind
+- 👯 I’m looking to collaborate with people designers, developers for better performance.
+- 🤔 I’m looking for help with improving my frontend skills, especially in advanced JavaScript.
+- 💬 Ask me about UI/UX design and static website development
+- 📫 How to reach me: mukteswar.work@gmail.com
+- 😄 Pronouns: His/Him
+- ⚡ Fun fact: I haven’t done any real-world projects yet.
 
 <!--
 **mukteswar-connect/mukteswar-connect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
