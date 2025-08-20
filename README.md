@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a static web project.
 - 👯 I’m looking to collaborate with figma UI/UX designers and front-end developers. 
 - 💬 Ask me about UI/UX design and static website development process.
-- 📄 Know about my experiences
+- 📄 Know about my experiences [https://github.com/mukteswar-dev/myResume](https://github.com/mukteswar-dev/myResume)
 - 📫 How to reach me: mukteswar.work@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code by day and build my brand by night.
@@ -37,6 +37,4 @@ Here are some ideas to get you started:
 <!-- JavaScript --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukteswar-dev&show_icons=true&locale=en&layout=compact" alt="mukteswar-git" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukteswar-dev&show_icons=true&locale=en" alt="mukteswar-git" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukteswar-dev&show_icons=true&locale=en" alt="mukteswar-dev" /></p>
