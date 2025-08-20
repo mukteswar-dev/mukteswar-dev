@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a static web project.
 - 👯 I’m looking to collaborate with figma UI/UX designers and front-end developers. 
 - 💬 Ask me about UI/UX design and static website development process.
-- 📄 Know about my experiences [https://github.com/mukteswar-dev/myResume](https://github.com/mukteswar-dev/myResume)
+- 📄 Know about my experiences [https://github.com/mukteswar-dev/myResume](https://github.com/mukteswar-dev/myResume/blob/main/mukteswarTripathy_Resume.pdf)
 - 📫 How to reach me: mukteswar.work@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code by day and build my brand by night.
