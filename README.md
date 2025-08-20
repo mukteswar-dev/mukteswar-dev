@@ -1,13 +1,16 @@
-## Hi there 👋
-- 🔭 I’m currently working as a Freelancer, design and building modern static website using HTML, CSS, JavaScript and Tailwind 
-- 🌱 I’m currently learning Tailwind
-- 👯 I’m looking to collaborate with people designers, developers for better performance.
-- 🤔 I’m looking for help with improving my frontend skills, especially in advanced JavaScript.
-- 💬 Ask me about UI/UX design and static website development
-- 📫 How to reach me: mukteswar.work@gmail.com
-- 😄 Pronouns: His/Him
-- ⚡ Fun fact: I haven’t done any real-world projects yet.
+<h1 align="center">Hi 👋, I'm Mukteswar Tripathy</h1>
 
+<h3 align="center">A passionate web developer from India</h3>
+
+- 🌱 I’m currently learning Tailwin CSS.
+- 🔭 I’m currently working on a static web project.
+- 👯 I’m looking to collaborate with figma UI/UX designers and front-end developers. 
+- 💬 Ask me about UI/UX design and static website development process.
+- 📄 Know about my experiences
+- 📫 How to reach me: mukteswar.work@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I code by day and build my brand by night.
+<!-- - 🤔 I’m looking for help with improving my frontend skills, especially in advanced JavaScript. -->
 <!--
 **mukteswar-connect/mukteswar-connect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +25,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/mukteswar-dev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn - mukteswar-dev" height="30" width="40" hspace="4" /></a>
+<a href="https://x.com/mukteswar_dev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X - mukteswar_dev" height="30" width="40"/></a>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> &nbsp;
+  <!-- HTML --> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a> &nbsp;&nbsp;
+<!-- Tailwind CSS --> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/></a> &nbsp;&nbsp;
+<!-- JavaScript --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukteswar-dev&show_icons=true&locale=en&layout=compact" alt="mukteswar-git" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukteswar-dev&show_icons=true&locale=en" alt="mukteswar-git" /></p>
