@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/mukteswar-dev" target="_blank"><img align="center" src="https://github.com/mukteswar-git/web/blob/dev/icons/social-media/linkedin-square-icon.svg" alt="LinkedIn - mukteswar-dev" height="30" width="40" hspace="4" /></a>
 <a href="https://x.com/mukteswar_dev" target="_blank"><img align="center" src="https://github.com/mukteswar-git/web/blob/dev/icons/social-media/x-social-media-logo-icon.svg" alt="X - mukteswar_dev" height="37" width="37" hspace="4"/></a>
-<a href="https://https://www.facebook.com/profile.php?id=61578039423848" target="_blank"><img align="center" src="https://github.com/mukteswar-git/web/blob/dev/icons/social-media/facebook-square-icon.svg" alt="X - mukteswar_dev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mukteswar_dev" target="_blank"><img align="center" src="https://github.com/mukteswar-git/web/blob/dev/icons/social-media/ig-instagram-icon.svg" alt="X - mukteswar_dev" height="30" width="40"/></a>
+<a href="https://www.facebook.com/profile.php?id=61578039423848" target="_blank"><img align="center" src="https://github.com/mukteswar-git/web/blob/dev/icons/social-media/facebook-square-icon.svg" alt="Facebook - mukteswar_dev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mukteswar_dev" target="_blank"><img align="center" src="https://github.com/mukteswar-git/web/blob/dev/icons/social-media/ig-instagram-icon.svg" alt="Instagram - mukteswar_dev" height="30" width="40"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> &nbsp;
